@@ -1,0 +1,35 @@
+.quality-cls {
+    display: flex;
+    margin-top: 50px;
+
+}
+
+
+.quality-cls span {
+    margin: 0 10px;
+}
+
+.quality-cls div {
+    cursor: pointer;
+}
+
+.img-cls {
+    height: 10vh;
+    width: 10vw;
+    margin: -10px 20px;
+
+}
+
+.checkout-cls {
+    margin-top: 15px;
+
+}
+
+/* .product-name {
+    margin-top: 10px;
+} */
+
+.btn-cls {
+    text-align: end;
+    margin-top: 50px;
+}
